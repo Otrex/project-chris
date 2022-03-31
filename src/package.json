@@ -1,0 +1,10 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.10",
+    "gpu.js": "^2.15.2"
+  }
+}
