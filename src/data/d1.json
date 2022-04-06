@@ -1,0 +1,918 @@
+[
+  {
+    "input": "Adefioye Adesewa Pelumi",
+    "output": "F"
+  },
+  {
+    "input": "Omisola Esther Mercy",
+    "output": "F"
+  },
+  {
+    "input": "Akangbe Joseph Woru",
+    "output": "M"
+  },
+  {
+    "input": "Olaniyan Oluwakemi Olawumi",
+    "output": "F"
+  },
+  {
+    "input": "Sulaiman Barakat Adebola",
+    "output": "F"
+  },
+  {
+    "input": "Adeyemi Oluwatobi Oluwajomiloju",
+    "output": "F"
+  },
+  {
+    "input": "Olayiwola Temitope Elizabeth",
+    "output": "F"
+  },
+  {
+    "input": "Adejori Oluwanifemi Kehinde",
+    "output": "F"
+  },
+  {
+    "input": "Obotemu Hellen Ogheneware",
+    "output": "F"
+  },
+  {
+    "input": "Akinnawonu Jumoke Sumisola",
+    "output": "F"
+  },
+  {
+    "input": "Ojo Gloria Ronke",
+    "output": "F"
+  },
+  {
+    "input": "Olademehin John Ayomide",
+    "output": "M"
+  },
+  {
+    "input": "Adegboye Mutiyat Iyanuoluwa",
+    "output": "F"
+  },
+  {
+    "input": "Ibironke Precious Ifeoluwa",
+    "output": "F"
+  },
+  {
+    "input": "Adeniyi Blessing Oladoyin",
+    "output": "F"
+  },
+  {
+    "input": "Ayoola Temitope Festus",
+    "output": "M"
+  },
+  {
+    "input": "Akinyode Margaret Oluwaseun",
+    "output": "F"
+  },
+  {
+    "input": "Oladunjoye Omonike Deborah",
+    "output": "F"
+  },
+  {
+    "input": "Dula Aondosoo Abraham",
+    "output": "M"
+  },
+  {
+    "input": "Adeleke Abdulhameed Olanrewaju",
+    "output": "M"
+  },
+  {
+    "input": "Oni Gbenga Faith",
+    "output": "M"
+  },
+  {
+    "input": "Adepetun Samuel Okiki",
+    "output": "M"
+  },
+  {
+    "input": "Fadugba Glory Taiwo",
+    "output": "F"
+  },
+  {
+    "input": "OLAYIWOLA TEMITOPE ELIZABETH",
+    "output": "F"
+  },
+  {
+    "input": "ABDULAZEEZ AKANFE BADMOS",
+    "output": "M"
+  },
+  {
+    "input": "Ojo Eniola Oluwadamilola",
+    "output": "F"
+  },
+  {
+    "input": "Aluko Ayomide Paul",
+    "output": "M"
+  },
+  {
+    "input": "Akindilureni Oluwagbemisola Moyinoluwa",
+    "output": "F"
+  },
+  {
+    "input": "Adeosun Jesuwumi Gold",
+    "output": "F"
+  },
+  {
+    "input": "Akinniran Oluwafemi Jeremiah",
+    "output": "M"
+  },
+  {
+    "input": "Bada Igbagboyemi Elizabeth",
+    "output": "F"
+  },
+  {
+    "input": "Akinlade Muminat Bukola",
+    "output": "F"
+  },
+  {
+    "input": "Folorunso Oluwaseun Gift",
+    "output": "F"
+  },
+  {
+    "input": "Eluyela Olayinka Rowland",
+    "output": "M"
+  },
+  {
+    "input": "Aderibigbe Abosede Deborah",
+    "output": "F"
+  },
+  {
+    "input": "Arinola Samuel Oluwaseun",
+    "output": "M"
+  },
+  {
+    "input": "Oyeyinka Nurudeen Temitope",
+    "output": "M"
+  },
+  {
+    "input": "Isawumi Lydia Opeyemi",
+    "output": "F"
+  },
+  {
+    "input": "Olasegha Funso Christopher",
+    "output": "M"
+  },
+  {
+    "input": "Elugbaju Covenant Oluwatimileyin",
+    "output": "M"
+  },
+  {
+    "input": "Odewumi Dorcas Adedamola",
+    "output": "F"
+  },
+  {
+    "input": "Oyeleye Idris Olaide",
+    "output": "M"
+  },
+  {
+    "input": "Abdulrafiu Anifat Omobukola",
+    "output": "F"
+  },
+  {
+    "input": "Muniruddin Sumayyah Folasade",
+    "output": "F"
+  },
+  {
+    "input": "Abdulganiyy Maryam Ramadan",
+    "output": "F"
+  },
+  {
+    "input": "Kolawole Oluwaseyifunmi Eunice",
+    "output": "F"
+  },
+  {
+    "input": "Rasheed-Salami Oluwatobiloba Bilquis",
+    "output": "F"
+  },
+  {
+    "input": "Joel Sandra Otegha",
+    "output": "F"
+  },
+  {
+    "input": "Akinbola Faith Enitan",
+    "output": "F"
+  },
+  {
+    "input": "Agboola Susan Folake",
+    "output": "F"
+  },
+  {
+    "input": "Omotayo Favour Adeola",
+    "output": "F"
+  },
+  {
+    "input": "Asimi Idris Olayinka",
+    "output": "M"
+  },
+  {
+    "input": "David Blessing Joy",
+    "output": "F"
+  },
+  {
+    "input": "Onigbinde Isaac Olamide",
+    "output": "M"
+  },
+  {
+    "input": "Fatunmise Funmilayo Mary",
+    "output": "F"
+  },
+  {
+    "input": "Olajire Olajide Adebayo",
+    "output": "M"
+  },
+  {
+    "input": "Dauda Morufat Bolanle",
+    "output": "F"
+  },
+  {
+    "input": "Ojerinde Latifat Omowumi",
+    "output": "F"
+  },
+  {
+    "input": "Salawudeen Rodiyah Ajike",
+    "output": "F"
+  },
+  {
+    "input": "Olajide Naimot Opeyemi",
+    "output": "F"
+  },
+  {
+    "input": "Ganiyu Ibrahim Adekunle",
+    "output": "M"
+  },
+  {
+    "input": "Adenika Sarah Oluwabukola",
+    "output": "F"
+  },
+  {
+    "input": "Shamura Rashidat Anuoluwapo",
+    "output": "F"
+  },
+  {
+    "input": "Adedipesoye Oluwatosin Elijah",
+    "output": "M"
+  },
+  {
+    "input": "Ademulegun Oluwaseyi Samuel",
+    "output": "M"
+  },
+  {
+    "input": "Adeyale Olumide Samuel",
+    "output": "M"
+  },
+  {
+    "input": "Jesubiyi Aanuoluwapo Titilayo",
+    "output": "F"
+  },
+  {
+    "input": "Okafor Comfort",
+    "output": "F"
+  },
+  {
+    "input": "Akintoye Bosede Veronica",
+    "output": "F"
+  },
+  {
+    "input": "Solomon Omosewa Blessing",
+    "output": "F"
+  },
+  {
+    "input": "Peter Grace Mercy",
+    "output": "F"
+  },
+  {
+    "input": "Okusanya Ifeoluwaposimi Celina",
+    "output": "F"
+  },
+  {
+    "input": "Afolabi Esther Oladunni",
+    "output": "F"
+  },
+  {
+    "input": "Adeyemo Moyosade Oyinkansola",
+    "output": "F"
+  },
+  {
+    "input": "Kolawole Fadilullah Omorilewa",
+    "output": "M"
+  },
+  {
+    "input": "Adeyemi Boluwatife Timileyin",
+    "output": "M"
+  },
+  {
+    "input": "Adebayo Glory Emmanuel",
+    "output": "M"
+  },
+  {
+    "input": "Adegoke Jumoke Temitope",
+    "output": "F"
+  },
+  {
+    "input": "Oyeniyi Faruq Babatunde",
+    "output": "M"
+  },
+  {
+    "input": "Oyaniyi Olusola Esther",
+    "output": "F"
+  },
+  {
+    "input": "Olasehinde Success Olabisi",
+    "output": "F"
+  },
+  {
+    "input": "ADEDIPESOYE ELIJAH OLUWATOBI",
+    "output": "M"
+  },
+  {
+    "input": "Adetoro Eniola Comfort",
+    "output": "F"
+  },
+  {
+    "input": "Samuel Christiana Omolola",
+    "output": "F"
+  },
+  {
+    "input": "Ibrahim Rasheedat Damilola",
+    "output": "F"
+  },
+  {
+    "input": "Nnorom Nellyclare Chiemerie",
+    "output": "F"
+  },
+  {
+    "input": "Akintokun Ruth Motunrayo",
+    "output": "F"
+  },
+  {
+    "input": "Olabode Precious Adewale",
+    "output": "M"
+  },
+  {
+    "input": "Njoku Uchechi Loveth",
+    "output": "F"
+  },
+  {
+    "input": "Oyelade Ruth Safiya",
+    "output": "F"
+  },
+  {
+    "input": "Ademuyiwa Mercy Omolayo",
+    "output": "F"
+  },
+  {
+    "input": "Akinleye Victor Oluwatimilehin",
+    "output": "M"
+  },
+  {
+    "input": "Egunjobi Kehinde Oluwaseunayofunmi",
+    "output": "M"
+  },
+  {
+    "input": "Adejoju Damilola",
+    "output": "F"
+  },
+  {
+    "input": "Felix Maryann Chidiogo",
+    "output": "F"
+  },
+  {
+    "input": "Agogo Dorcas Itunuoluwapo",
+    "output": "F"
+  },
+  {
+    "input": "Adeyemi-Adesuyi Adebimpe",
+    "output": "F"
+  },
+  {
+    "input": "Durojaye Roselyn Moyinoluwa",
+    "output": "F"
+  },
+  {
+    "input": "Kareem Zainab Omowumi",
+    "output": "F"
+  },
+  {
+    "input": "Olutoyinbo Precious Oyindamola",
+    "output": "F"
+  },
+  {
+    "input": "Gbemi Toboulayefa",
+    "output": "M"
+  },
+  {
+    "input": "Akintoye Success Ayokanmi",
+    "output": "M"
+  },
+  {
+    "input": "Oluwajobi Emmanuel Mayowa",
+    "output": "M"
+  },
+  {
+    "input": "Ebunola Jesutoke Pearl",
+    "output": "M"
+  },
+  {
+    "input": "Ojo Adeola Elizabeth",
+    "output": "F"
+  },
+  {
+    "input": "Ogunjimi Oluwatosin Rachel",
+    "output": "F"
+  },
+  {
+    "input": "Adeyeye Oluwafunke Grace",
+    "output": "F"
+  },
+  {
+    "input": "Kehinde David Chibuke",
+    "output": "M"
+  },
+  {
+    "input": "Adefisayo Kingsley Toluwalashe",
+    "output": "M"
+  },
+  {
+    "input": "MUFUTAU FADESAYO GBOLAHAN",
+    "output": "M"
+  },
+  {
+    "input": "Eluu Victor Chinonso",
+    "output": "M"
+  },
+  {
+    "input": "Ayetigbo Oluwatosin Tofunmi",
+    "output": "M"
+  },
+  {
+    "input": "Adereti Christianah Yetunde",
+    "output": "F"
+  },
+  {
+    "input": "Oladosu Pelumi Abiodun",
+    "output": "M"
+  },
+  {
+    "input": "Akanbi Sodiq Olamilekan",
+    "output": "M"
+  },
+  {
+    "input": "Badmus Bukola Nafisat",
+    "output": "F"
+  },
+  {
+    "input": "Adebayo Deborah Jesulayomi",
+    "output": "F"
+  },
+  {
+    "input": "Fatuase Bisola Eniola",
+    "output": "F"
+  },
+  {
+    "input": "Alabi Fausiyat Oluwatoyin",
+    "output": "F"
+  },
+  {
+    "input": "Olaoye Taiwo Joy",
+    "output": "F"
+  },
+  {
+    "input": "Olaoye Taiwo Joy",
+    "output": "F"
+  },
+  {
+    "input": "Awolowo Moyosola Aderonke",
+    "output": "F"
+  },
+  {
+    "input": "Abdulsalam Zainab Adenike",
+    "output": "F"
+  },
+  {
+    "input": "Adewuyi Haleema Adebola",
+    "output": "F"
+  },
+  {
+    "input": "Dada Deborah Semilore",
+    "output": "F"
+  },
+  {
+    "input": "Festus Stephen Tomiwa",
+    "output": "M"
+  },
+  {
+    "input": "Osedumme Bede Damian",
+    "output": "M"
+  },
+  {
+    "input": "Basiru Ahmed Omotayo",
+    "output": "M"
+  },
+  {
+    "input": "Fasoranti Oluwatosin Mary",
+    "output": "f"
+  },
+  {
+    "input": "Mustapha Aishat Omosalewa",
+    "output": "F"
+  },
+  {
+    "input": "Olaleye Jumoke Christianah",
+    "output": "F"
+  },
+  {
+    "input": "Hamzat Abdulmujeeb Aduagba",
+    "output": "M"
+  },
+  {
+    "input": "Olawoyin Goodness Olamide",
+    "output": "F"
+  },
+  {
+    "input": "Ajayi Pelumi Imoleayo",
+    "output": "F"
+  },
+  {
+    "input": "Ani Abraham Chukwuemeka",
+    "output": "M"
+  },
+  {
+    "input": "Adekola Sodiq Ayomide",
+    "output": "M"
+  },
+  {
+    "input": "Oderinde Tolulope Oluwaseun",
+    "output": "F"
+  },
+  {
+    "input": "Adebisi Delight Peace",
+    "output": "F"
+  },
+  {
+    "input": "Afolabi Abosede Christianah",
+    "output": "F"
+  },
+  {
+    "input": "Oladejo Fathia Olayemisi",
+    "output": "F"
+  },
+  {
+    "input": "Olugbodi Israel Ishola",
+    "output": "M"
+  },
+  {
+    "input": "Folorunsho Benjamine Oluwatimilehin",
+    "output": "M"
+  },
+  {
+    "input": "Owoeye Praise Ayooluwa",
+    "output": "M"
+  },
+  {
+    "input": "Alimi Samson Ayodeji",
+    "output": "M"
+  },
+  {
+    "input": "Adeleke Mikail Olamilekan",
+    "output": "M"
+  },
+  {
+    "input": "Akinfala Samuel Ayomide",
+    "output": "M"
+  },
+  {
+    "input": "Adeniran Timilehin Adex",
+    "output": "M"
+  },
+  {
+    "input": "Folorunso Michael Ayomide",
+    "output": "M"
+  },
+  {
+    "input": "Williams Olawale Emmanuel",
+    "output": "M"
+  },
+  {
+    "input": "Ajibade Habibat Adeola",
+    "output": "F"
+  },
+  {
+    "input": "Adegbola Kehinde Elizabeth",
+    "output": "F"
+  },
+  {
+    "input": "Olabiyi Esther Ajoke",
+    "output": "F"
+  },
+  {
+    "input": "Ogungbeni",
+    "output": "M"
+  },
+  {
+    "input": "Emmanuel Oluwaferanmi",
+    "output": "undefined"
+  },
+  {
+    "input": "Fagbohunka Folusade Felicity",
+    "output": "F"
+  },
+  {
+    "input": "Olowookere Oluyemi Ojurereoluwa",
+    "output": "F"
+  },
+  {
+    "input": "Ekhasomi Kehinde Rosemary",
+    "output": "F"
+  },
+  {
+    "input": "Olutayo Emmanuel Adeleke",
+    "output": "M"
+  },
+  {
+    "input": "Ojewale Taiwo Moses",
+    "output": "M"
+  },
+  {
+    "input": "Eludini Kehinde Rachael",
+    "output": "F"
+  },
+  {
+    "input": "Omoboriowo Ridwan Ola",
+    "output": "M"
+  },
+  {
+    "input": "Akinsiku Deborah Anuoluwapo",
+    "output": "F"
+  },
+  {
+    "input": "Oladapo Precious Deborah",
+    "output": "F"
+  },
+  {
+    "input": "Rabiu Nurudeen Idowu",
+    "output": "M"
+  },
+  {
+    "input": "Ibrahim Sofiyat Ayoka",
+    "output": "F"
+  },
+  {
+    "input": "Amoloja Isaac Ayomide",
+    "output": "M"
+  },
+  {
+    "input": "Olubiyi Abiodun Oyeyemi",
+    "output": "M"
+  },
+  {
+    "input": "Fawibe Ayodeji Shadrach",
+    "output": "M"
+  },
+  {
+    "input": "Adetimehin Lucia Temitope",
+    "output": "F"
+  },
+  {
+    "input": "Omolayo Gideon Feranmi",
+    "output": "M"
+  },
+  {
+    "input": "Olaribigbe Christianah Chioma",
+    "output": "F"
+  },
+  {
+    "input": "Adebusoye Charles Tobi",
+    "output": "M"
+  },
+  {
+    "input": "Akindunjoye Afolabi Tobi",
+    "output": "M"
+  },
+  {
+    "input": "Faola Rebecca",
+    "output": "F"
+  },
+  {
+    "input": "Isaiah Anuoluwapo Mary",
+    "output": "F"
+  },
+  {
+    "input": "Ojo Emmanuel Afolabi",
+    "output": "M"
+  },
+  {
+    "input": "Akinmosin Emmanuel Eniola",
+    "output": "M"
+  },
+  {
+    "input": "Obi Somadila",
+    "output": "M"
+  },
+  {
+    "input": "Adelowo Comfort Ayomide",
+    "output": "F"
+  },
+  {
+    "input": "Adeleke Rachael Omolabake",
+    "output": "F"
+  },
+  {
+    "input": "Adediran Hannah Ayomide",
+    "output": "F"
+  },
+  {
+    "input": "Kolawole Temitope Sharon",
+    "output": "F"
+  },
+  {
+    "input": "Asa Temitope Oyenike",
+    "output": "F"
+  },
+  {
+    "input": "Adekanye Naimot Adeola",
+    "output": "F"
+  },
+  {
+    "input": "Olafare Oluwatoyin Esther",
+    "output": "F"
+  },
+  {
+    "input": "Okediji Wuraola Lydia",
+    "output": "F"
+  },
+  {
+    "input": "Daikwo Ojochegbe Goodness",
+    "output": "M"
+  },
+  {
+    "input": "Oladotun Ebenezer Ayodeji",
+    "output": "M"
+  },
+  {
+    "input": "Akinpelu Sherifah Ayomide",
+    "output": "F"
+  },
+  {
+    "input": "Akinbinu Temitope Elizabeth",
+    "output": "F"
+  },
+  {
+    "input": "Adelakun Maryyam Temitope",
+    "output": "F"
+  },
+  {
+    "input": "Adewoye Bisola Deborah",
+    "output": "F"
+  },
+  {
+    "input": "Israel Faith Iyanuoluwa",
+    "output": "F"
+  },
+  {
+    "input": "Akinwumi Faith Inumidun",
+    "output": "F"
+  },
+  {
+    "input": "Adewale Miracle Korede",
+    "output": "M"
+  },
+  {
+    "input": "Afenifemi Oluwakemi Hellen",
+    "output": "F"
+  },
+  {
+    "input": "Ileladewa Ademidun",
+    "output": "F"
+  },
+  {
+    "input": "Moronfolu",
+    "output": "undefined"
+  },
+  {
+    "input": "Olaniyan Deborah Oluwanifemi",
+    "output": "F"
+  },
+  {
+    "input": "DIRECT ENTRY",
+    "output": "undefined"
+  },
+  {
+    "input": "ADEDEJI SUNDAY JOHN",
+    "output": "M"
+  },
+  {
+    "input": "ODINIGWE IFEANYICHUKWU FRANCIS",
+    "output": "M"
+  },
+  {
+    "input": "ADENIRAN KEHINDE DORCAS",
+    "output": "F"
+  },
+  {
+    "input": "ADEBAYO EMMANUEL OLAOLUWA",
+    "output": "M"
+  },
+  {
+    "input": "AKINYOSOYE FAITH FOLASHADE",
+    "output": "F"
+  },
+  {
+    "input": "ADEMESO OPEYEMI CHRISTIANAH",
+    "output": "F"
+  },
+  {
+    "input": "ALESE ISMAILA NIYI",
+    "output": "M"
+  },
+  {
+    "input": "LAWSON ONOME OGOCHUKWU",
+    "output": "F"
+  },
+  {
+    "input": "AKINFOLARIN MARY OLAYINKA",
+    "output": "F"
+  },
+  {
+    "input": "SAMSON BUKOLA COMFORT",
+    "output": "F"
+  },
+  {
+    "input": "RAJI MUSINAT BOLAWA",
+    "output": "F"
+  },
+  {
+    "input": "ADEOSUN SUNDAY OLASUNKANMI",
+    "output": "M"
+  },
+  {
+    "input": "ADEMODI KIKIOPELOYEJESU OLUWATEMILORUN",
+    "output": "F"
+  },
+  {
+    "input": "JOSEPH RACHEAL OLUWASEUN",
+    "output": "F"
+  },
+  {
+    "input": "SULAIMAN NURAT BIDEMI",
+    "output": "F"
+  },
+  {
+    "input": "ADEOYE OLUWAMAYOKUN LOVE",
+    "output": "F"
+  },
+  {
+    "input": "OGUNSUSI OLUWABUNMI GRACE",
+    "output": "F"
+  },
+  {
+    "input": "TAWOSE OLUWABUKUNMI ESTHER",
+    "output": "F"
+  },
+  {
+    "input": "AJAYI KOLAWOLE STEPHEN",
+    "output": "M"
+  },
+  {
+    "input": "OLUBODE FATIMO OMOSALEWA",
+    "output": "F"
+  },
+  {
+    "input": "OMOTEWE",
+    "output": "M"
+  },
+  {
+    "input": "ADEWALE ALBERT",
+    "output": "undefined"
+  },
+  {
+    "input": "BODUNRINDE OLUWAFEMI DANIEL",
+    "output": "M"
+  },
+  {
+    "input": "ADEBAYO RUKAYAT OMOWUMI",
+    "output": "F"
+  },
+  {
+    "input": "ABIDAKUN OLUWANIFESIMI ESTHER",
+    "output": "F"
+  },
+  {
+    "input": "AJAO MERCY",
+    "output": "F"
+  },
+  {
+    "input": "AKINBOBOLU YETUNDE STELLA",
+    "output": "F"
+  },
+  {
+    "input": "OLUSOLA FELICIA OMOTOYOSI",
+    "output": "F"
+  },
+  {
+    "input": "AROMOKUN YETUNDE HANNAH",
+    "output": "F"
+  }
+]

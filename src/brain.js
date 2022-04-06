@@ -1,14 +1,25 @@
 const brain = require('brain.js');
+const XLSX = require('xlsx');
+const fs = require('fs');
+const path = require('path');
 
-const network = new brain.NeuralNetwork();
 
-network.train([
-  { input: [0,0,1], output: [1] },
-  { input: [1,0,1], output: [0] },
-  { input: [1,1,1], output: [0] },
-  { input: [0,0,0], output: [1] },
-])
+var workbook = XLSX.readFile(`${__dirname}/data/d1.xlsx`);
+var jsa = XLSX.utils.sheet_to_json(workbook.Sheets['Table 1'], {raw: false});
 
-const output = network.run([1,1, 0])
 
-console.table({ output });
+const network = new brain.recurrent.LSTM();
+const trainingData = jsa.map((d) => ({
+  input: String(d.FULLNAME.replace('\r\n', ' ')).toLowerCase(),
+  output: String(d.SEX)
+}))
+
+// fs.writeFileSync(path.join(__dirname, 'data', 'd1.json'), JSON.stringify(trainingData, null, 2), 'utf8');
+
+network.train(trainingData, {
+  iterations: 200
+});
+
+const output = network.run('prince nna')
+
+console.log(output);
